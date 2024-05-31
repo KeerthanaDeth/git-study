@@ -4,3 +4,5 @@ GitHub is a web-based hostig service for git repositories.
 What git can do ?
 -Manage project with repositories
 -Clone a project to work on a local copy
+-Control and track changes with staging and committing
+-Branch and merge to allow for work on different parts and versions of a project
